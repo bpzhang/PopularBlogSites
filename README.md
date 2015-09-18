@@ -19,6 +19,7 @@
 * <a href="http://mysqldba.blogspot.com/" target="_blank">MySQL BlogSpot</a>
 * <a href="http://s.petrunia.net/blog/" target="_blank">Petrunia-MySQL查询优化博客</a>
 * <a href="http://dev.mysql.com/doc/refman/5.6/en/optimization.html" target="_blank">MySQL优化-来自MySQL官网</a>
+* <a href="http://dimitrik.free.fr/blog/archives/cat_mysql.html" target="_blank">MySQL性能</a>
 * <a href="http://www.innomysql.net/" target="_blank">Inside MySql</a>
 
 ### Bloggers
@@ -40,6 +41,10 @@
 * <a href="http://www.importnew.com/" target="_blank">import new</a>
 * <a href="http://www.tuicool.com/" target="_blank">推酷</a>
 * <a href="http://www.dbthink.com/" target="_blank">dbthink</a>
+* <a href="http://itindex.net/" target="_blank">IT瘾</a>
+* <a href="http://blog.paralleluniverse.co/" target="_blank">Parallel Universe</a>
+* <a href="http://www.yvanz.com/" target="_blank">yvanz博客</a>
+* <a href="http://www.letiantian.me/" target="_blank">乐天博客</a>
 
 ### 文献&论文
 
@@ -53,6 +58,9 @@
 * <a href="http://www.ticmy.com/" target="_blank">丁一的博客</a>
 * <a href="http://hllvm.group.iteye.com/group/topic/41086/" target="_blank">GC历史及在HotSpot方面的进展</a>
 * <a href="http://mechanical-sympathy.blogspot.hk/" target="_blank">Mechanical Sympathy</a>
+* <a href="http://bluedavy.me/?p=187" target="_blank">学习JVM的References</a>
+* <a href="http://www.oracle.com/technetwork/articles/java/index.html" target="_blank">Oracle技术官网Java文章</a>
+* <a href="http://www.molotang.com/articles/category/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF/%E5%BC%80%E5%8F%91/java/java%E8%AF%AD%E8%A8%80/%E5%B9%B6%E5%8F%91" target="_blank">Java并发与集合类分析</a>
 
 ### 并发&并行
 
@@ -61,6 +69,8 @@
 
 ### 分布式系统、高性能网站架构
 
+* <a href="http://martin.kleppmann.com/" target="_blank">Netflix的一大神</a>
+* <a href="http://nathanmarz.com/" target="_blank">Thought from the Red Planet</a>
 * <a href="http://www.bitstech.net/" target="_blank">bitstech</a>
 * <a href="http://highscalability.com/" target="_blank">High Scabality</a>
 * <a href="http://blog.csdn.net/yangbutao/article/list/14" target="_blank">杨步涛的博客</a>
@@ -71,6 +81,7 @@
 * <a href="http://c10m.robertgraham.com/p/manifesto.html" target="_blank">C10M问题</a>
 * <a href="http://www.zenlife.tk/" target="_blank">zenlife</a>
 * <a href="http://www.cnblogs.com/foxmailed/" target="_blank">foxmailed</a>
+* <a href="http://thesecretlivesofdata.com/raft/" target="_blank">Raft协议图解</a>
 
 
 ### 大数据、搜索、推荐
@@ -83,6 +94,8 @@
 * <a href="http://blog.cloudera.com/blog/" target="_blank">Cloudera</a>
 * <a href="http://dongxicheng.org/" target="_blank">董西成博客</a>
 * <a href="http://caibinbupt.iteye.com/blog/262412" target="_blank">Hadoop源码分析-蔡斌</a>
+* <a href="http://fengshenwu.com/" target="_blank">封神博客</a>
+* <a href="http://www.binospace.com/" target="_blank">binospace</a>
 
 ### 编程范式
 
@@ -107,6 +120,7 @@
 * <a href="http://www.lzhaohao.info/abs/" target="_blank">Bash脚本编程指南</a>
 * <a href="http://oldboy.blog.51cto.com/" target="_blank">老男孩Linux运维</a>
 * <a href="http://nolinux.blog.51cto.com/" target="_blank">Not Only Linux</a>
+* <a href="http://www.juvenxu.com/" target="_blank">juven xu-Maven权威指南作者</a>
 
 ### Netty
 
@@ -119,6 +133,10 @@
 * <a href="http://segmentfault.com/u/qiwsir/" target="_blank">零基础学Python系列</a>
 * <a href="http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/python_style_rules" target="_blank">Python编程风格指南</a>
 
+### IaaS & PaaS
+
+* <a href="http://zstack.org/" target="_blank">zstack</a>
+
 Redis监控：
 https://github.com/jxqlovejava/redis-faina
 https://github.com/jxqlovejava/RedisLive
@@ -128,7 +146,5 @@ http://sirona.incubator.apache.org/
 
 AB
 JMeter
-
-
 
 
