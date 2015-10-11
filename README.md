@@ -130,6 +130,7 @@
 ### Python
 * <a href="https://wiki.python.org/moin/" target="_blank">Python Wiki</a>
 * <a href="http://www.fullstackpython.com/" target="_blank">Python全栈开发</a>
+* <a href="https://pythonpedia.com/" target="_blank">Python一站式学习</a>
 * <a href="http://segmentfault.com/u/qiwsir/" target="_blank">零基础学Python系列</a>
 * <a href="http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/python_style_rules" target="_blank">Python编程风格指南</a>
 
@@ -141,10 +142,7 @@ Redis监控：
 https://github.com/jxqlovejava/redis-faina
 https://github.com/jxqlovejava/RedisLive
 
-应用监控
-http://sirona.incubator.apache.org/
-
-AB
-JMeter
+### 应用监控
+* <a href="http://sirona.incubator.apache.org/" target="_blank">Apache Sirona-Java应用监控解决方案</a>
 
 
